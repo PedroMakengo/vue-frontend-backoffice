@@ -24,7 +24,7 @@ Certifique-se de ter os seguintes softwares instalados em sua máquina:
 Clone o repositório para a sua máquina local usando o comando:
 
 ```bash
-git clone [https://github.com/usuario/nome-do-repositorio.git](https://github.com/PedroMakengo/vue-frontend-backoffice)
+git clone https://github.com/PedroMakengo/vue-frontend-backoffice)
 
 ```
 ### 2. Navegar até o diretório do projeto
@@ -67,6 +67,6 @@ yarn dev
 
 Se tiver alguma dúvida ou sugestão, entre em contato:
 
-- Email: [seuemail@exemplo.com](mailto:devmakengo2021@gmail.com)
-- GitHub: [seuusuario](https://github.com/pedromakengo)
-- LinkedIn: [seuLinkedIn](https://www.linkedin.com/in/pedro-makengo-32ab0a1a0/)
+- Email: [devmakengo2021@gmail.com](mailto:devmakengo2021@gmail.com)
+- GitHub: [PedroMakengo](https://github.com/pedromakengo)
+- LinkedIn: [Pedro Makengo](https://www.linkedin.com/in/pedro-makengo-32ab0a1a0/)
