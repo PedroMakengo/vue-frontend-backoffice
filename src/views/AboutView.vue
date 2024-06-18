@@ -1,6 +1,28 @@
+<script lang="ts">
+import { defineComponent, ref, onMounted } from 'vue'
+import { UsecaseObterListaExercicos } from '../services'
+
+export default defineComponent({
+  setup() {
+    const data = ref([])
+
+    const buscarListaExercicios = async () => {
+      const response = await UsecaseObterListaExercicos.execute()
+      data.value = response?.data
+    }
+
+    onMounted(() => {
+      buscarListaExercicios()
+    })
+
+    return { data }
+  }
+})
+</script>
+
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    {{ data }}
   </div>
 </template>
 

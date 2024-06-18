@@ -1,9 +1,10 @@
 import axios from 'axios'
 
 const httpClient = axios.create({
-  baseURL: 'https://localhost:3000',
+  baseURL: 'https://teste.api.isfactory.app',
   headers: {
-    'Content-Type': 'application/json'
+    'Content-Type': 'application/json',
+    company: 'vendap'
   }
 })
 
