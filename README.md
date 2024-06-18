@@ -7,8 +7,6 @@ Desenvolvendo um frontend com o Vuejs + PrimeVuejs para a integração de alguns
 - [Pré-requisitos](#pré-requisitos)
 - [Instalação](#instalação)
 - [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
 - [Contato](#contato)
 
 ## Pré-requisitos
@@ -64,3 +62,11 @@ Usando o yarn
 ```
 yarn dev
 ```
+
+## Contato
+
+Se tiver alguma dúvida ou sugestão, entre em contato:
+
+- Email: [seuemail@exemplo.com](mailto:devmakengo2021@gmail.com)
+- GitHub: [seuusuario](https://github.com/pedromakengo)
+- LinkedIn: [seuLinkedIn](https://www.linkedin.com/in/pedro-makengo-32ab0a1a0/)
